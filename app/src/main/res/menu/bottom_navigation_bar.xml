@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Profile"
+        android:icon="@drawable/ic_baseline_person_4_24"
+        android:id="@+id/profile"/>
+    <item android:title="Skills"
+        android:icon="@drawable/ic_baseline_psychology_24"
+        android:id="@+id/skill"/>
+
+</menu>

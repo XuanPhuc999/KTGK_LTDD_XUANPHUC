@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle">
+<!--stroke o day la chinh đo rong border va mau cua no -->
+    <stroke android:width="3dp" android:color="@color/grey"/>
+<!--    bo goc-->
+    <corners android:radius="10dp"/>
+<!--    mau nen cua hinh vuong-->
+    <solid android:color="#e7f5fb"/>
+</shape>
